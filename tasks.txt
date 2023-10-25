@@ -1,0 +1,8 @@
+1. Add Items via list form
+2. Remove items by clicking x
+3. Clear all items with 'clear' button
+4. Filter items by typing in filter field
+5. Store data in local storage
+6. Click on Item to put into 'edit mode' and add to form
+7. Update Item
+8. Deploy to Netlify
